@@ -158,7 +158,7 @@ Senior Full-Stack Engineer • React & React Native Specialist • Web3 Builder
 ## 🚀 Featured Skills
 
 ```javascript
-const chrisLee = {
+const james = {
   frontend: [
     "React",
     "React Native",
