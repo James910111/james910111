@@ -8,10 +8,6 @@ Senior Full-Stack Engineer • React & React Native Specialist • Web3 Builder
   🇸🇬 Singapore-based engineer with 10+ years of experience building scalable web & mobile applications across fintech, SaaS, travel, CRM, and blockchain platforms.
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <p align="center">
   <a href="https://github.com/james9101111">
     <img src="https://komarev.com/ghpvc/?username=james9101111&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -20,6 +16,10 @@ Senior Full-Stack Engineer • React & React Native Specialist • Web3 Builder
     <img src="https://img.shields.io/github/followers/james9101111?label=Followers&style=social"/>
   </a>
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
