@@ -9,17 +9,17 @@ Senior Full-Stack Engineer • React & React Native Specialist • Web3 Builder
 </p>
 
 <p align="center">
-  <a href="https://github.com/james9101111">
-    <img src="https://komarev.com/ghpvc/?username=james9101111&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/jsx-architect">
+    <img src="https://komarev.com/ghpvc/?username=jsx-architect&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
-  <a href="https://github.com/james9101111?tab=followers">
-    <img src="https://img.shields.io/github/followers/james9101111?label=Followers&style=social"/>
+  <a href="https://github.com/jsx-architect?tab=followers">
+    <img src="https://img.shields.io/github/followers/jsx-architect?label=Followers&style=social"/>
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jsx-architect/jsx-architect/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/James910111/James910111/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jsx-architect/jsx-architect/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
@@ -148,13 +148,13 @@ Senior Full-Stack Engineer • React & React Native Specialist • Web3 Builder
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=james9101111&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jsx-architect&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james9101111&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsx-architect&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james9101111&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsx-architect&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
